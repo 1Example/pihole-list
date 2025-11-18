@@ -25,7 +25,7 @@
 0.0.0.0 udc.yahoo.com
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 extmaps-api.yandex.net
-0.0.0.0 s.youtube.com
+#0.0.0.0 s.youtube.com
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 analytics.adobe.io
